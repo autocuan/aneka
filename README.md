@@ -1,4 +1,3 @@
-# aneka
 
 Step By Step Command Line On Termux :
 
